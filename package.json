@@ -1,0 +1,27 @@
+{
+  "title": "Batman Dark Theme",
+  "name": "batman-dark-theme",
+  "description": "Batman Dark theme for Brackets.io.",
+  "version": "0.0.1",
+  "author": "Nikhil Jadav <jadavneil94@gmail.com>",
+  "homepage": "https://github.com/jadavneil/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jadavneil"
+  },
+  "engines": {
+    "brackets": ">=0.42.0"
+  },
+  "keywords": [
+    "extension",
+    "brackets",
+    "Batman",
+    "dark",
+    "theme"
+  ],
+  "theme": {
+    "file": "main.less",
+    "dark": true,
+    "addModeClass": true
+  }
+}
